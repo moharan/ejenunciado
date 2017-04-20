@@ -1,7 +1,7 @@
 # ejenunciado
 Ejercicio 2 de Laboratoria
 
-Desde Terminal
+## Desde Terminal
 *cd* IR A 
 *mkdir* nombre carpeta = para crear una carpeta en el directorio
 *touch*  nombre de archivo.extensión (crea archivo sublime)
@@ -19,7 +19,7 @@ copiar este link
 *git push origin master* = sube los cambios de la nueva versión, pide nombre de usuario de gitHub y luego contraseña 
 actualizar el link de gibHub y ya esta el archivo
 
-SUBIR::
+### SUBIR::
 
 *git checkout -b gh-pages*
 *git status*
